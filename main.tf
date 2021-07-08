@@ -12,3 +12,12 @@ provider "aws" {
   region  = "us-east-1"
 }
 
+# Random string to create unique identifier
+resource "random_string" "random" {
+  length  = 8
+  lower   = true
+  upper   = false
+  number  = false
+  special = false
+}
+

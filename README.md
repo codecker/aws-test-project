@@ -11,13 +11,6 @@ Limited scope test project to meet the following requirements:
 
 TODO:
 
-1. Create AWS account (Manual)
-   1. Enable Root MFA
-   1. Create Administrator account
-1. Secure AWS Account
-   1. Policy to enforce all IAM non-console accounts to require MFA
-   1. Enable GuardDuty
-   1. Set password policy
 1. Create KMS encryption keys
    1. S3 buckets
    1. EBS volumes
