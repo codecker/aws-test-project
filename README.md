@@ -12,14 +12,13 @@ Limited scope test project to meet the following requirements:
 TODO:
 
 1. Create KMS encryption keys
-   1. S3 buckets
-   1. EBS volumes
+   1. S3 buckets - Complete
+   1. EBS volumes - Complete
 1. Create logging bucket
-   1. Enable Encryption
-   1. Enable Versioning
-   1. Enforce MFA delete restriction
-   1. Create lifecycle policy
-   1. Restrict public access
+   1. Enable Encryption - Complete
+   1. Enable Versioning - Complete
+   1. Create lifecycle policy - Complete
+   1. Restrict public access - Complete
 1. Create VPC in US-EAST-1
    1. Create 2 public subnets and 2 private subnets
    1. Create route tables
