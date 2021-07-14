@@ -25,8 +25,10 @@ TODO:
    1. Create Network ACL
    1. Enable VPC Flow Logs
 1. Create AWS Launch Template
+   1. Create EC2 role for logging to Cloudwatch - Complete
+   1. Create SG
    1. Use AmazonLinux2 image
-   1. Download
+   1. Download or build NGINX
    1. Create bootstrap script to deploy website
 1. Create EC2 Autoscaling group
    1. Use Spot instances
