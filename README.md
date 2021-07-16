@@ -20,15 +20,15 @@ TODO:
    1. Create lifecycle policy - Complete
    1. Restrict public access - Complete
 1. Create VPC in US-EAST-1
-   1. Create 2 public subnets and 2 private subnets
-   1. Create route tables
-   1. Create Network ACL
-   1. Enable VPC Flow Logs
+   1. Create 2 public subnets and 2 private subnets - Complete
+   1. Create route tables - Complete
+   1. Create Network ACL - TODO
+   1. Enable VPC Flow Logs - Complete
 1. Create AWS Launch Template
    1. Create EC2 role for logging to Cloudwatch - Complete
    1. Create SG
    1. Use AmazonLinux2 image
-   1. Download or build NGINX
+   1. Bootstrap script to download or build NGINX - Complete
    1. Create bootstrap script to deploy website
 1. Create EC2 Autoscaling group
    1. Use Spot instances
